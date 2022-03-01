@@ -1,0 +1,11 @@
+C:\Users\nhand\OneDrive\Documents\Công cụ phát triển phần mềm\18_N1_05\demo\demo\bin\Debug\demo.exe.config
+C:\Users\nhand\OneDrive\Documents\Công cụ phát triển phần mềm\18_N1_05\demo\demo\bin\Debug\demo.exe
+C:\Users\nhand\OneDrive\Documents\Công cụ phát triển phần mềm\18_N1_05\demo\demo\bin\Debug\demo.pdb
+C:\Users\nhand\OneDrive\Documents\Công cụ phát triển phần mềm\18_N1_05\demo\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+C:\Users\nhand\OneDrive\Documents\Công cụ phát triển phần mềm\18_N1_05\demo\demo\obj\Debug\demo.Form1.resources
+C:\Users\nhand\OneDrive\Documents\Công cụ phát triển phần mềm\18_N1_05\demo\demo\obj\Debug\demo.Home.resources
+C:\Users\nhand\OneDrive\Documents\Công cụ phát triển phần mềm\18_N1_05\demo\demo\obj\Debug\demo.Properties.Resources.resources
+C:\Users\nhand\OneDrive\Documents\Công cụ phát triển phần mềm\18_N1_05\demo\demo\obj\Debug\demo.csproj.GenerateResource.cache
+C:\Users\nhand\OneDrive\Documents\Công cụ phát triển phần mềm\18_N1_05\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\nhand\OneDrive\Documents\Công cụ phát triển phần mềm\18_N1_05\demo\demo\obj\Debug\demo.exe
+C:\Users\nhand\OneDrive\Documents\Công cụ phát triển phần mềm\18_N1_05\demo\demo\obj\Debug\demo.pdb
