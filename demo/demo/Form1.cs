@@ -22,7 +22,7 @@ namespace demo
             string tk = txtusername.Text;
             string mk = txtpassword.Text;
             if(tk.Equals("") || mk.Equals("")) {
-                MessageBox.Show("Username or password is not allowed!", "Notification");
+                MessageBox.Show("Username or password is not allowed empty!", "Notification");
                 if (tk.Equals("")){
                     txtusername.Focus();
                 }
@@ -36,8 +36,19 @@ namespace demo
                 home.Show();
             }
             else {
-                MessageBox.Show("Username or password wrong!");
+                MessageBox.Show("Username or password wrong!","Notification");
                 txtusername.Focus();
+            }
+        }
+
+        private void btnexit_Click(object sender, EventArgs e)
+        {
+            string message = "Do you want to close this window?";
+            string title = "Close Window";
+            MessageBoxButtons buttons = MessageBoxButtons.YesNo;
+            DialogResult result = MessageBox.Show(message, title, buttons);
+            if (result == DialogResult.Yes) {
+                this.Close();
             }
         }
     }

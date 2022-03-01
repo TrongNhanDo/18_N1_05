@@ -104,6 +104,7 @@ namespace demo
             this.btnexit.TabIndex = 6;
             this.btnexit.Text = "Exit";
             this.btnexit.UseVisualStyleBackColor = true;
+            this.btnexit.Click += new System.EventHandler(this.btnexit_Click);
             // 
             // Form1
             // 
